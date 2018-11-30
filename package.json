@@ -1,0 +1,8 @@
+{
+  "name": "dub",
+  "private": true,
+  "workspaces": [
+      "frontend",
+      "backend"
+  ]
+}

@@ -1,0 +1,7 @@
+
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Foxer-360/dub-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Foxer-360/dub-backend.git
