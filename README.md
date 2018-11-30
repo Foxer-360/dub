@@ -5,10 +5,5 @@ Steps to run project:
   git clone --recursive -j8 git@github.com:Foxer-360/dun.git
   cd dun
   # Check if nothing running on ports 4000 or 3000 if yes kill it or change docker compose file in root.
-  sudo docker-compose up -d
-  cd dun-backend
-  prisma deploy
-  cd ..
-  yarn
-  yarn dev
+  bash run.sh
 ```
