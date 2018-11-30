@@ -1,6 +1,6 @@
-[submodule "dun-frontend"]
-	path = dun-frontend
-	url = git@github.com:Foxer-360/dun-frontend.git
 [submodule "dun-backend"]
 	path = dun-backend
 	url = git@github.com:Foxer-360/dun-backend.git
+[submodule "dun-frontend"]
+	path = dun-frontend
+	url = git@github.com:Foxer-360/dun-frontend.git
