@@ -1,2 +1,6 @@
-git clone --recursive -j8 git@github.com:Foxer-360/dub.git .
-yarn
+  sudo docker-compose up -d
+  cd dun-backend
+  prisma deploy
+  cd ..
+  yarn
+  yarn dev
