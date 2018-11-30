@@ -4,6 +4,7 @@ Steps to run project:
 ```bash
   git clone --recursive -j8 git@github.com:Foxer-360/dun.git
   cd dun
+  sudo docker-compose up -d
   yarn
   yarn dev
 ```
