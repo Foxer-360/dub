@@ -11,7 +11,7 @@ Steps to run project:
 ## Project is consited of
 - ###  [Authorization server](https://github.com/Foxer-360/dun-backend)
 - ### [Authorization backoffice](https://github.com/Foxer-360/dun-frontend)
-- ### [Authorization foxer360 middleware](https://github.com/Foxer-360/foxer360-authorization)
+- ### [Authorization middleware](https://github.com/Foxer-360/foxer360-authorization)
   
 ## Diagram
 
